@@ -3,15 +3,15 @@ import java.util.Scanner;
 public class SumNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = Integer.parseInt(scanner.nextLine());
-        int a = 0;
-        int sum = 0;
-        for (int i = 0; i < n; i++) {
-            int num = Integer.parseInt(scanner.nextLine());
-
-                sum = sum + num;
+        int num = Integer.parseInt(scanner.nextLine());
+        int input = 0;
+        int numbs = 0;
+        while (num > 0) {
+            input = scanner.nextInt();
+            num = num - input;
+            numbs = numbs + input;
 
         }
-        System.out.println(sum);
+        System.out.println(numbs);
     }
 }

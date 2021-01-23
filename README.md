@@ -1,12 +1,1 @@
-# <p align="center"> Courses from the main program in SoftUni <p>
-
-<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
-
-[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
-
-<br/>
-<br/>
-<br/>
-
-<h2> Certificates </h2>
-
+![687474703a2f2f696e6e6f766174696f6e73746172746572626f782e62672f77702d636f6e74656e742f75706c6f6164732f323031362f30352f536f6674756e695f6c6f676f5f74726173706172656e742e706e67](https://user-images.githubusercontent.com/74453519/105576337-b80a2d00-5d7a-11eb-85ef-1a90e88fb0a0.png)

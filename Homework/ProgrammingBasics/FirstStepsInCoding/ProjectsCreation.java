@@ -8,6 +8,6 @@ public class ProjectsCreation {
         String architect = scanner.nextLine();
         int projects  = Integer.parseInt(scanner.nextLine());
         int hours  = projects * 3;
-                     System.out.println("The architect " + architect + " will need " + hours + " hours to complete " + projects + " project/s.");
+        System.out.println("The architect " + architect + " will need " + hours + " hours to complete " + projects + " project/s.");
     }
 }

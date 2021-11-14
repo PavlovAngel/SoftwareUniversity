@@ -10,7 +10,7 @@ public class DepostiCalculator {
         double yearpercent = Double.parseDouble(scanner.nextLine());
         double yearpercent2 = yearpercent  / 100;
         System.out.println(sum + mounth * ((sum * yearpercent2) /12));
-
+       
     }
 
 }

@@ -2,6 +2,8 @@ package ProgrammingBasics.FirstStepsInCoding;
 
 import java.util.Scanner;
 
+import javax.sound.sampled.SourceDataLine;
+
 public class ConcatenateData {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
@@ -10,6 +12,5 @@ public class ConcatenateData {
         int age = Integer.parseInt(scanner.nextLine());
         String town = scanner.nextLine();
         System.out.printf("You are %s %s, a %d -years old person from %s.",firstName,lastName,age,town);
-
     }
 }
